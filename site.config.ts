@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Sebastian Cuellar',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Web personal Sebastian Cuellar',
 
   // social usernames (optional)
   twitter: 'seastiancrypto',
